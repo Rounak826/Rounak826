@@ -5,8 +5,8 @@
 <p align="left">
 <a href="https://rounakbisen.web.app" target="blank"><img align="center" src="https://www.pinclipart.com/picdir/big/257-2576819_go-to-bed-clipart.png" alt="rounakrajput826" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rounak-bisen-b7163b1b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rounak-bisen-b7163b1b2" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22404537" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22404537" height="30" width="40" /></a>
-<a href="https://instagram.com/rounakrajput826" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rounakrajput826" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22404537/rounak-bisen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22404537" height="30" width="40" /></a>
+<a href="https://instagram.com/rounakrajput826" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rounakrajput26" height="30" width="40" /></a>
 </p>
 
 <!--
