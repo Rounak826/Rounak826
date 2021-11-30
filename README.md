@@ -15,7 +15,7 @@
 Here are some ideas to get you started:
 -->
 
-React Developer | Web-developer | Javascript| firebase
+React Developer | UI/UX designer | Frontend developer | Web-developer | Javascript| firebase
 - 🔭 I’m currently working on News webapp
 - 🌱 I’m currently learning React-Js
 - 👯 I’m looking to collaborate on a innovative project.
